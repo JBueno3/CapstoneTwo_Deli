@@ -6,7 +6,12 @@ the application creates a receipt in the txt.file format.
 In creating the code, I got really confused and mixed up on how I wanted to separate the classes and add implement so that it aligns. 
 
 
+
+
 SCREENSHOT OF MY COMMAND LINE BELOW
+
+
+
 ![screen 1](https://github.com/JBueno3/CapstoneTwo_Deli/assets/166542802/f177aad7-65e3-41b2-85ea-6c61c56858f6)
 ![screen2](https://github.com/JBueno3/CapstoneTwo_Deli/assets/166542802/8666ea01-1aea-47f4-9b75-06918c9ff426)
 ![screen3](https://github.com/JBueno3/CapstoneTwo_Deli/assets/166542802/58e45cc8-50d1-43b7-9e5c-015c79762905)
