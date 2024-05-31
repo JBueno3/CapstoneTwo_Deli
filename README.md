@@ -1,9 +1,21 @@
 CapstoneTwo_ DELI-cious
+
 For this project, I made an application that functions as an online deli where users can place personalized orders for chips,drinks, and sandwiches.
 There are price differences between the various sizes of drinks and sandwiches. Some sandwich toppings are also more expensive. Upon confirmation of an order, 
 the application creates a receipt in the txt.file format. 
 
+The main method is the entry point of the program. It is a standard Java method used to start the execution of a Java program. It takes an array of Strings (args) as input.
+
+ Inside the main method, there is a call to UserInterface.displayDeli(). This line of code invokes the displayDeli method of the UserInterface class.
+
+UserInterface Class: The code assumes the existence of a class named UserInterface, which contains a method named displayDeli. This method is responsible for displaying information related to a deli, presumably.
+
+In summary, this code executes the displayDeli method from the UserInterface class when the program is run. The purpose of the displayDeli method is to present information related to a deli, though without seeing the implementation of the UserInterface class, the specifics of what is displayed cannot be determined.
+
 In creating the code, I got really confused and mixed up on how I wanted to separate the classes and add implement so that it aligns. 
+One potential new feature that could be added to this code is the ability to apply discounts to orders based on certain conditions.
+Discount Interface I would like to create a new interface named Discounts that defines a method for calculating discounts.
+
 
 
 
